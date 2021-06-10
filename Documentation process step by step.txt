@@ -1,0 +1,11 @@
+1.	Documentation for Steps to Complete
+2.	Gathered reference material from official Bootstrap documentation
+3.	Created the github repository
+4.	Add all html files (about, blog, contact, home), and create a custom 
+5.	Add screenshots in pdf
+6.	Add js files corresponding to blog and contact.
+7.	blog.js to add functionality to “add blog post”
+8.	contact.js  validate entry
+9.	button subscrip get notified on the latest blog posts.
+10.	Styled the pages using bootstrap and custom css
+11.	Add "update and delete and like" functionality to articles
